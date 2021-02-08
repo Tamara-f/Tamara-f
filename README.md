@@ -5,7 +5,7 @@ Open for job opportunities
 
 Skills: Node.js / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page.https://github.com/Tamara-f/Meeting-scheduler-application 
+- 🔭 I’m currently working on this page https://github.com/Tamara-f/Meeting-scheduler-application 
 - 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me: filatovatam@ukr.net 
 
