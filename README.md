@@ -13,5 +13,5 @@ Skills: Node.js / REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tamara-f)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tamara-filatova-4a6a2876//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/tamara.filatova.5)  
 
 
-<summary>GitHub stats</summary>
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamara-f)](https://github.com/tamara-f/github-readme-stats)
